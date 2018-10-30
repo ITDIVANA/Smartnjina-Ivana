@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Definicije</title>
+</head>
+
+<body>
+
+<h1>Definicije tagova</h1>
+<dl>
+<ol>
+	<li><dt> &#60p&#62</dt></li>
+		<dd>Predstavlja paragraf</dd>
+	<li><dt>&#60abbr&#62</dt></li>
+		<dd>Definiše skraćenicu ili akronim</dd>
+	<li><dt>&#60address&#62</dt></li>
+		<dd>Definiše kontak autora ili vlasnika dokumenta</dd>
+	<li><dt>&#60bdo&#62</dt></li>
+		<dd>bi-direction-izdvaja dio teksta koji bi trebao biti formiran u suprotnom pravcu od ostatka</dd>
+	<li><dt>&#60title&#62</dt></li>
+		<dd>Tag koji će prikazati naslov dokumenta</dd>
+	<li><dt>&#60cite&#62</dt></li>
+		<dd>Koristi se za naziv nečijeg djela</dd>
+	<li><dt>&#60time&#62</dt></li>
+		<dd>Definiše datum i vrijeme</dd>
+	<li><dt>&#60wbr&#62</dt></li>
+		<dd>Word Break Opportyiniti-Određuje da je na tom mjestu dopušteno browswru da napravi prelom za novi red</dd>
+	<li><dt>&#60form&#62</dt></li>
+		<dd>Predstavlja formu koja je predviđena za nekakav oblik povratne informacije za korisnika</dd>
+	<li><dt>&ltinput&gt</dt></li>
+		<dd>Kontrola za unošenje podataka</dd>
+	<li><dt>&lttextarea&gt</dt></li>
+		<dd> Pravi polje za unošenje teksta i podataka</dd>
+	<li><dt>&ltbutton&gt</dt></li>
+		<dd>Kreira dugme</dd>
+	<li><dt>&ltselect&gt</dt></li>
+		<dd>Kreira listu koja pada</dd>
+	<li><dt>&ltlabel&gt</dt></li>
+		<dd>Predstavlja oznaku ili naziv za neku od polja za unošenje podataka</dd>
+	<li><dt>&ltdfn&gt</dt></li>
+		<dd>Predstavlja pojam koji se definiše</dd>
+	<li><dt>&ltpre&gt</dt></li>
+		<dd>Ostavlja tekst u onom obliku kako je prethodno formatiran</dd>
+	<li><dt>&ltinframe&gt</dt></li>
+		<dd>Inframe se koristi za ugrađivanje drugog dokumenta unutar našeg HTML dokumenta</dd>
+	<li><dt>&ltcanvas&gt</dt></li>
+		<dd>Platno na kojem se prikazuju nacrtane grafičke slike u pokretu az koje treba da koristimo skriptu da bi napravili</dd>
+	<li><dt>&ltfigure&gt</dt></li>
+		<dd>Definiše sadržaj kao što su ilustracije, dijagrami i fotografije</dd>
+	<li><dt>&ltnav&gt</dt></li>
+		<dd>Sadržaj linkova za navigaciju</dd>
+	</ol>
+</dl>
+
+</body>
+</html>
